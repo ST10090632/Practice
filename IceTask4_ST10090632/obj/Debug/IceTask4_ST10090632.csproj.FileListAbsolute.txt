@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\bin\Debug\IceTask4_ST10090632.exe.config
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\bin\Debug\IceTask4_ST10090632.exe
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\bin\Debug\IceTask4_ST10090632.pdb
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\obj\Debug\IceTask4_ST10090632.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\obj\Debug\IceTask4_ST10090632.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\obj\Debug\IceTask4_ST10090632.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\obj\Debug\IceTask4_ST10090632.exe
+C:\Users\lab_services_student\source\repos\IceTask4_ST10090632\IceTask4_ST10090632\obj\Debug\IceTask4_ST10090632.pdb
